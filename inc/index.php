@@ -1,4 +1,3 @@
-<?php echo "Hello world"; ?>
 
 <!DOCTYPE html>
 <html lang="en">
