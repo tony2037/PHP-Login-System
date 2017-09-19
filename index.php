@@ -19,5 +19,7 @@
     <p><a href="./Login.php">Login</a></p>
     <p><a href="./Register.php">Register</a></p>
 
+    <?php define("__FOOTER__",true); require_once "./inc/footer.php"; ?>
+
 </body>
 </html>
